@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/meribaj",
-    "repository": "https://github.com/jaabirosman/AdityaPlayer",
+    "repository": "https://github.com/jaabirosman/ribajosmani",
     "success_url": "https://t.me/meribaj",
     "env": {
         "API_ID": {
